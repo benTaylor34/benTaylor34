@@ -1,5 +1,4 @@
 ![Banner](./Y0qhxAD.jpg)
-## Hi there 👋
 
 <!--
 **benTaylor34/benTaylor34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
